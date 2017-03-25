@@ -528,7 +528,7 @@ input[type="number"]:-ms-input-placeholder, input[type="date"]:-ms-input-placeho
     color: #dedede;
 }
 input[type="number"]:focus, input[type="date"]:focus, input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focus {
-    color: #000;
+    color: #b2a191;
     border-color: #171717;
     outline: 0;
     box-shadow: 0 0 8px rgba(23,23,23,.8);
