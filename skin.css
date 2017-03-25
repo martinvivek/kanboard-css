@@ -665,6 +665,8 @@ orm-columns .form-column {
 .form-login {
     max-width: 350px;
     margin: 5% auto 0;
+    background: rgba(32,32,32,.9);
+    padding: 5px;
 }
 .form-login li {
     margin-left: 25px;
